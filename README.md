@@ -10,4 +10,6 @@ Using MDN's Getting started with the Web tutorial as your guide, you will create
 a static webpage that introduces yourself, deploy it and then share it with your
 Academy classmates.
 
+### The Dude's example
+
 ![](https://cd.sseu.re/The_Big_Lebio_2018-03-16_11-47-48.png)
