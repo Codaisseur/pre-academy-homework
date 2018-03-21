@@ -33,4 +33,4 @@ Once you have installed the tools you can access the MDN tutorial [here](https:/
 
 
 
-**[◀ Previous: Introduction](https://github.com/Codaisseur/pre-academy-homework/tree/master/01.%20Guidelines)** ――――――――――――――――――――――――――― **[Next: Deploying your website ▶](https://github.com/Codaisseur/pre-academy-homework/tree/master/02.%20Deployment)**
+**[◀ Previous: Introduction](https://github.com/Codaisseur/pre-academy-homework)** ――――――――――――――――――――――――――― **[Next: Deploying your website ▶](https://github.com/Codaisseur/pre-academy-homework/tree/master/02.%20Deployment)**

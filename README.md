@@ -14,4 +14,4 @@ You will create a static webpage introducing yourself, deploy it and then share 
 
 
 
-―――――――――――――――――――――――――――――――――――――― **[Next: Homework guidelines ➤](https://github.com/Codaisseur/pre-academy-homework/tree/master/01.%20Guidelines)**
+―――――――――――――――――――――――――――――――――――――― **[Next: Homework guidelines ▶](https://github.com/Codaisseur/pre-academy-homework/tree/master/01.%20Guidelines)**
