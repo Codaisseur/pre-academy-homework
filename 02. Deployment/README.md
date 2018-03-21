@@ -6,11 +6,11 @@ To be able to share your personal webpage with everyone else, we need to deploy 
 
 ![](https://cd.sseu.re/BitBalloon_-_The_fastest_simplest_HTML5_hosting_platform_on_the_planet_2018-03-21_10-56-37.png)
 
-2. Drag and drop your website folder on the indicated spot in the Bitballoon website
+2. Drag and drop your website folder to the indicated spot on the Bitballoon website
 
 ![](https://cd.sseu.re/BitBalloon_-_The_fastest_simplest_HTML5_hosting_platform_on_the_planet_2018-03-21_11-48-16.png)
 
-It's important that your `index.html` resides in the root of your website folder or you will get an error when uploading to Bitballoon.
+It's important that your `index.html` file resides in the root of your website folder or you will get an error when uploading to Bitballoon.
 
 ![](https://cd.sseu.re/BitBalloon_-_The_fastest_simplest_HTML5_hosting_platform_on_the_planet_2018-03-21_11-19-15.png)
 
@@ -18,7 +18,7 @@ If you run into the error indicated above, ensure that the file tree of your web
 
 ![](https://cd.sseu.re/the_big_lebio_website_2018-03-21_11-50-06.png)
 
-3. Store your website url somewhere or create a free account where it can be saved for you. Clicking on this url will redirect you to your live webpage.
+3. Save your website url somewhere or create a free account where it can be saved for you. Clicking on this url will redirect you to your live webpage.
 
 ![](https://cd.sseu.re/BitBalloon_-_By_Netlify_2018-03-21_11-36-14.png)
 

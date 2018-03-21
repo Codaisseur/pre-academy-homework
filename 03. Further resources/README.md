@@ -1,6 +1,6 @@
 # Further resources
 
-We always get questions from future students regarding other resources they can follow as further preparation for the Academy. This is awesome as it's important to keep the ball rolling, especially if your Academy is month or more away from starting.
+We always get questions from future students regarding other resources in which they can follow as further preparation for the Academy. This is awesome as it's important to keep the ball rolling, especially if your Academy is month or more away from starting.
 
 Sticking with the MDN theme, listed below is their learning pathways for HTML, CSS and JavaScript, that we recommend as an extension of further preparation:
 

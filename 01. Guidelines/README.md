@@ -1,6 +1,6 @@
 # Homework Guidelines
 
-For this assignment you will create a static webpage that is all about you. The webpage will need to include your name, an image of yourself and some background info about who you are. This information can be structured/presented any way you want, provided you stay within the arcs of HTML, CSS and JavaScript.
+For this assignment you will create a static webpage that is all about you. The webpage will need to include your name, an image of yourself and some background info about who you are/what you want your classmates to know about you. This information can be structured/presented any way you want, provided you stay within the arcs of HTML, CSS and JavaScript.
 
 ### Where do I start?
 
