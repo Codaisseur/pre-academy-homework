@@ -11,3 +11,5 @@ You will create a static webpage introducing yourself, deploy it and then share 
 ### The Dude's example
 
 ![](https://cd.sseu.re/The_Big_Lebio_2018-03-16_11-47-48.png)
+
+[Next: Guidelines ➤](https://github.com/Codaisseur/pre-academy-homework/tree/master/01.%20Guidelines)
