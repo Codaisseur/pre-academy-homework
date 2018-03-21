@@ -27,6 +27,8 @@ In the week(s) prior to your Academy start date, you will be invited to join a c
 
 ### What if I need help?
 
-Whether it be now, during your training and well into your future career as a developer, being stuck happens. Luckily for you, you have the internet at your disposal! Our expectation should you get stuck, is that you make use of the tools at hand; one of the most important being the ability to Google your way out of it. This same expectation will continue throughout your Academy training because you will soon realise, a career in development means that help is not always available.
+Whether it be now, during your training and well into your future career as a developer, being stuck happens. Luckily for you, you have the internet at your disposal! Our expectation should you get stuck, is that you make use of the tools at hand; one of the most important being the ability to Google your way out of it. This same expectation will continue throughout your Academy training as you will soon realise, a career in development means that help is not always available.
 
 Once you have installed the tools you can access the MDN tutorial [here](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web).
+
+**[◀ Previous: Introduction](https://github.com/Codaisseur/pre-academy-homework/tree/master/01.%20Guidelines)** ――――――――――――――――――――――――――――――――― **[Next: Deploying your website ▶](https://github.com/Codaisseur/pre-academy-homework/tree/master/02.%20Deployment)**

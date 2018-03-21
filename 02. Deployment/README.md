@@ -10,7 +10,7 @@ To be able to share your personal webpage with everyone else, we need to deploy 
 
 ![](https://cd.sseu.re/BitBalloon_-_The_fastest_simplest_HTML5_hosting_platform_on_the_planet_2018-03-21_11-48-16.png)
 
-It's important that your `index.html` resides in the root of your website folder or you will get an error when uploading to Balloon.
+It's important that your `index.html` resides in the root of your website folder or you will get an error when uploading to Bitballoon.
 
 ![](https://cd.sseu.re/BitBalloon_-_The_fastest_simplest_HTML5_hosting_platform_on_the_planet_2018-03-21_11-19-15.png)
 
