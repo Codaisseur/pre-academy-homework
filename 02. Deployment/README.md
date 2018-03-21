@@ -25,3 +25,5 @@ If you run into the error indicated above, ensure that the file tree of your web
 4. Once you get access to Slack, share your website with your fellow classmates in your respective class channel.
 
 ![](https://cd.sseu.re/Slack_-_Codaisseur_Students__Teachers_2018-03-21_11-44-18.png)
+
+**[◀ Previous: Homework guides](https://github.com/Codaisseur/pre-academy-homework/tree/master/01.%20Guidelines)** ――――――――――――――――――――――――――― **[Next: Further resources ▶](https://github.com/Codaisseur/pre-academy-homework/tree/master/02.%20Deployment)**

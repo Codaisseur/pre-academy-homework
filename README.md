@@ -12,4 +12,4 @@ You will create a static webpage introducing yourself, deploy it and then share 
 
 ![](https://cd.sseu.re/The_Big_Lebio_2018-03-16_11-47-48.png)
 
-―――――――――――――――――――――――――――――――――――――――――― **[Next: Homework Guidelines ➤](https://github.com/Codaisseur/pre-academy-homework/tree/master/01.%20Guidelines)**
+―――――――――――――――――――――――――――――――――――――― **[Next: Homework Guidelines ➤](https://github.com/Codaisseur/pre-academy-homework/tree/master/01.%20Guidelines)**
