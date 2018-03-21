@@ -31,4 +31,4 @@ Whether it be now, during your training and well into your future career as a de
 
 Once you have installed the tools you can access the MDN tutorial [here](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web).
 
-**[◀ Previous: Introduction](https://github.com/Codaisseur/pre-academy-homework/tree/master/01.%20Guidelines)** ―――――――――――――――――――――――――――――――― **[Next: Deploying your website ▶](https://github.com/Codaisseur/pre-academy-homework/tree/master/02.%20Deployment)**
+**[◀ Previous: Introduction](https://github.com/Codaisseur/pre-academy-homework/tree/master/01.%20Guidelines)** ―――――――――――――――――――――――――――― **[Next: Deploying your website ▶](https://github.com/Codaisseur/pre-academy-homework/tree/master/02.%20Deployment)**
