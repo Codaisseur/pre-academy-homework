@@ -12,6 +12,10 @@ You will create a personal webpage about yourself, deploy it and then share it w
 
 [![](https://cd.sseu.re/The_Big_Lebio_2018-03-16_11-47-48.png)](https://the-big-lebio.herokuapp.com/)
 
+View the example website [here](https://the-big-lebio.herokuapp.com/).
 
+### Is this optional?
+
+No.
 
 ―――――――――――――――――――――――――――――――――――――― **[Next: Homework guidelines ▶](https://github.com/Codaisseur/pre-academy-homework/tree/master/01.%20Guidelines)**
