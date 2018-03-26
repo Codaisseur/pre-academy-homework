@@ -8,7 +8,8 @@ Sticking with the MDN theme, listed below is their learning pathways for HTML, C
 - [CSS - Styling the Web](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [JavaScript - Dynamic client-side scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
-As the core of the Academy will cover JavaScript, if your short on time but still want to prepare further, focus your attention on the JavaScript pathway.
+As the core of the Academy will cover JavaScript, if you're short on time but still want to prepare further, focus your attention on the JavaScript pathway.
 
+In case you missed it, read our [FAQ on academy preparation](http://help.codaisseur.com/for-prospective-academy-students/preparation/how-do-i-prepare-for-the-academy). There are more learning points in there as well.
 
   **[◀ Previous: Deploying your website](https://github.com/Codaisseur/pre-academy-homework/tree/master/01.%20Guidelines)** ―――――――――――――――――――――――――――――――――――

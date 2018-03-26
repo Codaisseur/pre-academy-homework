@@ -26,6 +26,4 @@ If you run into the error indicated above, ensure that the file tree of your web
 
 ![](https://cd.sseu.re/Slack_-_Codaisseur_Students__Teachers_2018-03-21_11-44-18.png)
 
-
-
 **[◀ Previous: Homework guidelines](https://github.com/Codaisseur/pre-academy-homework/tree/master/01.%20Guidelines)** ――――――――――――――――――――――― **[Next: Further resources ▶](https://github.com/Codaisseur/pre-academy-homework/tree/master/03.%20Further%20resources)**
