@@ -14,7 +14,7 @@ You will be using MDN's [Getting started with the Web](https://developer.mozilla
 
 This section of the tutorial suggests some tools to install. We would rather have you install [some] of the tools we will be using during the program. This will give you the time now to get familiar if you haven't used them before. The tools below are the only tools you have to install for this section/assignment:
 
-* [Atom text editor](https://atom.io/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 * [Google Chrome](https://www.google.com/chrome/)
 
 **Publishing your website**
