@@ -1,6 +1,6 @@
 # Deploying your website
 
-To be able to share your personal webpage with everyone else, we need to deploy it to to hosting platform. In this case, we are going to use a free hosting platform called [Bitballoon](https://www.bitballoon.com/). Once you have added the final touches, please follow the instructions below to get your personal webpage up and running for all to see:
+To be able to share your personal webpage with everyone else, we need to deploy it to a hosting platform. In this case, we are going to use a free hosting platform called [Bitballoon](https://www.bitballoon.com/). Once you have added the final touches, please follow the instructions below to get your personal webpage up and running for all to see:
 
 1. Go to [www.bitballoon.com](https://www.bitballoon.com/)
 
