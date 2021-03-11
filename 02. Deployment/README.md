@@ -1,16 +1,18 @@
 # Deploying your website
 
-To be able to share your personal webpage with everyone else, we need to deploy it to a hosting platform. In this case, we are going to use a free hosting platform called [Bitballoon](https://www.bitballoon.com/). Once you have added the final touches, please follow the instructions below to get your personal webpage up and running for all to see:
+To be able to share your personal webpage with everyone else, we need to deploy it to a hosting platform. In this case, we are going to use a free hosting platform called [Netlify Drop](https://app.netlify.com/drop). Once you have added the final touches, please follow the instructions below to get your personal webpage up and running for all to see:
 
-1. Go to [www.bitballoon.com](https://www.bitballoon.com/)
+> The images and the guide below show you the previous version of the website called "BitBalloon". Although the website has changed branding, the functionality and therefore the steps you must follow should be the same.
+
+1. Go to [Netlify Drop](https://app.netlify.com/drop)
 
 ![](https://cd.sseu.re/BitBalloon_-_The_fastest_simplest_HTML5_hosting_platform_on_the_planet_2018-03-21_10-56-37.png)
 
-2. Drag and drop your website folder to the indicated spot on the Bitballoon website
+2. Drag and drop your website folder to the indicated spot on the website
 
 ![](https://cd.sseu.re/BitBalloon_-_The_fastest_simplest_HTML5_hosting_platform_on_the_planet_2018-03-21_11-48-16.png)
 
-It's important that your `index.html` file resides in the root of your website folder or you will get an error when uploading to Bitballoon.
+It's important that your `index.html` file resides in the root of your website folder or you will get an error when uploading.
 
 ![](https://cd.sseu.re/BitBalloon_-_The_fastest_simplest_HTML5_hosting_platform_on_the_planet_2018-03-21_11-19-15.png)
 
